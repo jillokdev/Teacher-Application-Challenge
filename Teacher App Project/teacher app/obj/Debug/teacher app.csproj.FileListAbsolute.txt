@@ -1,7 +1,0 @@
-D:\Projects\Break and Continue\teacher app\teacher app\bin\Debug\teacher app.exe.config
-D:\Projects\Break and Continue\teacher app\teacher app\bin\Debug\teacher app.exe
-D:\Projects\Break and Continue\teacher app\teacher app\bin\Debug\teacher app.pdb
-D:\Projects\Break and Continue\teacher app\teacher app\obj\Debug\teacher app.csprojResolveAssemblyReference.cache
-D:\Projects\Break and Continue\teacher app\teacher app\obj\Debug\teacher app.csproj.CoreCompileInputs.cache
-D:\Projects\Break and Continue\teacher app\teacher app\obj\Debug\teacher app.exe
-D:\Projects\Break and Continue\teacher app\teacher app\obj\Debug\teacher app.pdb
